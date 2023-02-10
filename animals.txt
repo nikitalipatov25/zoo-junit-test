@@ -1,0 +1,2 @@
+Tiger, Ivan, 4, true, yellow, Eurasia
+Bear, John, 4, true, black, North America

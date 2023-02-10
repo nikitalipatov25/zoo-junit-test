@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="zoo-app">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../zoo-app" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../zoo-app/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
